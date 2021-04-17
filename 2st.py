@@ -1,0 +1,1 @@
+print(r'this is /n its use for new line')
